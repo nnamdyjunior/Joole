@@ -5,6 +5,5 @@
 	<input type="text" name="userName">
 	<input type="submit" value="submit">
 </form>
-this is just a test
 </body>
 </html>
